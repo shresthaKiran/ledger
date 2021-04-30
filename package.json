@@ -1,0 +1,22 @@
+{
+  "name": "ledger",
+  "version": "1.0.0",
+  "description": "Ledger Rest API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shresthaKiran/ledger.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shresthaKiran/ledger/issues"
+  },
+  "homepage": "https://github.com/shresthaKiran/ledger#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
